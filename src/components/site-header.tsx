@@ -24,7 +24,7 @@ export function SiteHeader() {
           <span className="hidden text-sm font-semibold leading-tight text-slate-800 sm:block">
             Computer Science
             <br />
-            <span className="font-normal text-slate-500">Faculty of Science</span>
+            <span className="font-normal text-slate-500">Faculty of Science and Technology</span>
           </span>
         </Link>
 

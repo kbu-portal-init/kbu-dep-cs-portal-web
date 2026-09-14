@@ -8,7 +8,9 @@ export default function HomePage() {
       <section className="overflow-hidden bg-kbu-mist">
         <div className="page-shell grid min-h-150 items-center gap-12 py-20 lg:grid-cols-[1.05fr_.95fr] lg:py-28">
           <div>
-            <p className="eyebrow mb-6">Department of Computer Science · Faculty of Science</p>
+            <p className="eyebrow mb-6">
+              Department of Computer Science · Faculty of Science and Technology
+            </p>
             <h1 className="max-w-2xl text-5xl font-semibold leading-[1.05] tracking-[-0.04em] text-slate-800 sm:text-6xl">
               Learn deeply.
               <br />

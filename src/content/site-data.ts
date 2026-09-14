@@ -148,7 +148,7 @@ export const studentEmailGuide = {
   tips: [
     "Always check both 'Focused' and 'Other' or 'Junk' tabs for verification emails.",
     "Keep your university email active throughout your study semesters to maintain automatic yearly license renewals.",
-    "If you have trouble logging in or need a password reset, visit the KBU Computing and Technology Center (CTC) on-campus helpdesk or contact student IT support.",
+    "If you have trouble logging in or need a password reset, contact the KBU Computing and Technology Center (CTC) via Line Official: @comcenter or visit the on-campus helpdesk.",
   ],
 };
 

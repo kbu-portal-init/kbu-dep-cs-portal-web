@@ -11,7 +11,8 @@ export function SiteFooter() {
             <span className="font-semibold text-kbu-primary">Computer Science</span>
           </div>
           <p className="max-w-sm text-sm leading-6 text-slate-500">
-            A place to learn deeply, build boldly, and grow together at KBU Faculty of Science.
+            A place to learn deeply, build boldly, and grow together at KBU Faculty of Science and
+            Technology.
           </p>
         </div>
         <div>
@@ -31,7 +32,7 @@ export function SiteFooter() {
         <div>
           <h2 className="mb-4 text-sm font-semibold text-slate-800">Contact</h2>
           <p className="text-sm leading-6 text-slate-500">
-            Faculty of Science
+            Faculty of Science and Technology
             <br />
             KBU Campus
             <br />
@@ -41,7 +42,7 @@ export function SiteFooter() {
       </div>
       <div className="border-t border-slate-100">
         <div className="page-shell flex flex-col gap-2 py-5 text-xs text-slate-400 sm:flex-row sm:items-center sm:justify-between">
-          <span>© 2026 KBU Faculty of Science. Temporary portal content.</span>
+          <span>© 2026 KBU Faculty of Science and Technology. Temporary portal content.</span>
           <span>Built for the KBU computing community.</span>
         </div>
       </div>

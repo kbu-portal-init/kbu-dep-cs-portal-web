@@ -5,7 +5,7 @@ import { SiteHeader } from "@/components/site-header";
 
 export const metadata: Metadata = {
   title: {
-    default: "Computer Science · KBU Faculty of Science",
+    default: "Computer Science · KBU Faculty of Science and Technology",
     template: "%s · KBU Computer Science",
   },
   description:
